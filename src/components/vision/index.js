@@ -26,8 +26,8 @@ function Vision() {
                     <div className="col-lg-12">
                         <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>  
                             <ContentBlock>
-                                <p>Smart Finance is a marketplace divided into multiple part, where buyers and sellers meet to carry out operations involving digital goods and assets in a secure way, involving AI for searching, matching and advising. One of the multiple advantathe automatic mg of h. <br />
-                                Smart Finance is a marketplace divided into multiple part, where buyers and sellers meet to carry out operations involving digital goods and assets in a secure way, involving AI for searching, matching and advising. One of the multiple advantathe automatic mg of h.</p>
+                                <p>Smart Finance is a decentralised platform powered by Artificial Intelligence. The platform offers Defi services such as a Whale Tracker and an Anti-Scam Scanner, and a P2P Marketplace where buyers and sellers can make profitable deals. <br /><br />
+                                A sophisticated artificial intelligence technology works at the back end of the Smart Finance platform. The platform has taken digital asset trading to a whole new level through the accuracy and speed of Artificial Intelligence which can increase profitability by trading smarter.</p>
                             </ContentBlock>
                         </ScrollAnimation>
                     </div>
