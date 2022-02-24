@@ -64,7 +64,7 @@ function Team() {
                         img={TeamAvater4}
                         name={"Dounia"} 
                         position="Chief Legal Officer" 
-                        content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                        content="Donna, law enthusiast with a passion for the fine print and policy implications of digital currencies. Living by the motto of high standard of professional conduct, in the realm of digital innovation where it resonates well that « Only lawyers and painters can turn white into black »"
                     />
                     <TeamBlk 
                         img={TeamAvater5} 
@@ -86,7 +86,7 @@ function Team() {
                     />
                     <TeamBlk 
                         img={TeamAvater8} 
-                        name={"Taha"} 
+                        name={"Tony"} 
                         position="Editor" 
                         content="Believer and a follower of crypto on the international market sinse a long time trader based on my experience in the creation of several startups"
                     />
