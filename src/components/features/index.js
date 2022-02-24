@@ -21,7 +21,7 @@ function Features() {
                     </div>
                     <div className="col-lg-4 col-md-6">
                         <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'> 
-                            <ContentBlock classNames="mt-5" title="AnticameAI">
+                            <ContentBlock classNames="mt-5" title="AntiScamAI">
                                 <p>The Anti-Scam AI analyzes lots of information about a crypto and provides a score regarding the investment risk. The analysis goes through the following:</p>
                                 <ul> 
                                     <li>Website</li>
