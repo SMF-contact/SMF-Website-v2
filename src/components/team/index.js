@@ -49,7 +49,7 @@ function Team() {
                     />
                     <TeamBlk 
                         img={TeamAvater2} 
-                        name={"Flo"} 
+                        name={"Florian"} 
                         position="Head of Marketing" 
                         content="Father. Beliver. Visionary. Master of Arts in managment - education - diversity.
                         You dont need to be intelligent to be Smart, you just need education."
@@ -68,9 +68,9 @@ function Team() {
                     />
                     <TeamBlk 
                         img={TeamAvater5} 
-                        name={"Abdel"} 
+                        name={"Fabdou"} 
                         position="Risk Manager" 
-                        content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                        content="More than 20 years serving B2B customers, always in the information technology, security, and telecom, I am always at the service of my customers."
                     />
                     <TeamBlk 
                         img={TeamAvater6} 
@@ -88,7 +88,7 @@ function Team() {
                         img={TeamAvater8} 
                         name={"Taha"} 
                         position="Editor" 
-                        content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                        content="Believer and a follower of crypto on the international market sinse a long time trader based on my experience in the creation of several startups"
                     />
                 </div>
             </div>
