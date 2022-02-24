@@ -27,19 +27,19 @@ function Tokenomics() {
   // pie chart data
   const dataMock = [
     { title: 'Token Presale', value: 31.48, color: '#3260ed' },
-    { title: 'Staking & Farming', value: 20, color: '#8ca8ff' },
+    { title: 'Staking & Farming', value: 22, color: '#8ca8ff' },
     { title: 'Listing', value: 18.41, color: '#7af0d1' },
     { title: 'Liquidity', value: 17.11, color: '#3290ed' },
     { title: 'Dev Wallet', value: 5, color: '#7c7af0' },
-    { title: 'Gaming Tournament', value: 5, color: '#32e4ed' }, 
-    { title: 'Airdrop', value: 3, color: '#32bbed' }, 
+    { title: 'Gaming', value: 5, color: '#32e4ed' }, 
+    { title: 'Airdrop', value: 1, color: '#32bbed' }, 
   ];
   
   // line chart data
   const DataForLineChart = [
-    { title: 'USDT Holders Reward', value: 87, color: '#8CA8FF' },
-    { title: 'Liquidity', value: 7, color: '#3290ED' },
-    { title: 'Marketing', value: 6, color: '#7AF0D1' }, 
+    { title: 'USDT Reward', value: 3, color: '#8CA8FF' },
+    { title: 'Liquidity', value: 4, color: '#3290ED' },
+    { title: 'Marketing', value: 4, color: '#7AF0D1' }, 
   ];
 
 
