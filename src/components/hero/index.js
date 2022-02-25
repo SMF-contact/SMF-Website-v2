@@ -33,7 +33,7 @@ function Hero() {
                             <h2>Smart<span>Finance</span></h2>
                             <p className="whiteColor">The first ever platform powerd by AI</p>
                             <p>A new AI-powered platform that offers DeFi services as well as P2P trading and investing tools. All of this is made possible by our one-of-a-kind Artificial Intelligence, Machine Learning, and Mathematical Expectations approach.</p>
-                            <CountDown date="12/25/2022" />{/* you could use both date formate no problem: Oct 25, 2023 OR 12/25/2022 */} 
+                            <CountDown date="00/00/0000" />{/* you could use both date formate no problem: Oct 25, 2023 OR 12/25/2022 */} 
                         </div> 
                     </div>
                     <div className="col-lg-7"> 
