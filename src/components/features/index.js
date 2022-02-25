@@ -20,59 +20,105 @@ function Features() {
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-6">
-                        <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'> 
-                            <ContentBlock classNames="mt-5" title="AntiScamAI">
-                                <p>The Anti-Scam AI analyzes lots of information about a crypto and provides a score regarding the investment risk. The analysis goes through the following:</p>
-                                <ul> 
-                                    <li>Website</li>
-                                    <li>Whitepaper</li>
-                                    <li>Social Media</li>
-                                    <li>Smart Contract</li>
-                                    <li>News Website</li>
-                                </ul>
-                            </ContentBlock>
-                        </ScrollAnimation>
-                    </div>
-                    <div className="col-lg-4 col-md-6">
-                        <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'> 
-                            <ContentBlock classNames="mt-5" title="AI Trading Bot">
-                                <p>Auto-Trading is an AI powered feature. It analyses big data sets using deep learning and AI to identify significant patterns, make better decisions, and create exact predictions. Investors can make wise investments by simplifying their selections, reducing the risk of uncertainty, and taking advantage of market volatility.</p>
-                            </ContentBlock>
-                        </ScrollAnimation>
-                    </div>
-                    <div className="col-lg-4 col-md-6">
-                        <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'> 
-                            <ContentBlock classNames="mt-5" title="Whales AI Tracker">
-                                <p>The Whales Tracker provides real-time streaming as well as tools for tracking whale movements across many blockchains.
-                                Our API retrieves the most current data and retains information about unconfirmed transactions from the past</p>
-                            </ContentBlock>
-                        </ScrollAnimation>
-                    </div>
-                    <div className="col-lg-4 col-md-6">
-                        <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'> 
-                            <ContentBlock classNames="mt-5" title="Smart Wallet">
-                                <p>The Smart Wallet is relatively easy for all users to log in to the platform.  You can sign in with a fingerprint or Face ID to access your wallet.</p> 
-                            </ContentBlock>
-                        </ScrollAnimation>
-                    </div>
-                    <div className="col-lg-4 col-md-6">
-                        <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'> 
-                            <ContentBlock classNames="mt-5" title="SearchAI">
-                                <p>Smart Finance is a marketplace divided into multiple part, where buyers and sellers meet to carry out operations involving digital goods and assets in a secure way, involving AI for searching, matching and advising. One of the multiple advantathe automatic mg of h</p>
-                            </ContentBlock>
-                        </ScrollAnimation>
-                    </div>
-                    <div className="col-lg-4 col-md-6">
-                        <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'> 
-                            <ContentBlock classNames="mt-5" title="Arbitration">
-                                <p>We are here to help people resolve their disputes in an intelligent manner. Our system is based on human intelligence, and it comes up with logical solutions that are acceptable for all parties to dispute.</p>
-                            </ContentBlock>
-                        </ScrollAnimation>
-                    </div>
-                </div>
-            </div>
+            <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
+              <ContentBlock classNames="mt-5" title="AnticameAI">
+                <p>
+                  Catering to all levels from beginner to expert, the Anti-Scam
+                  AI analyser protect you from scams.
+                  <br />
+                  The algorithm help to avoid criminal's scams trying to steal
+                  your hard-earned money by analysing:
+                </p>
+                <ul>
+                  <li>Website content</li>
+                  <li>Whitepaper content</li>
+                  <li>Social Media posts and comments</li>
+                  <li>Smart Contract code</li>
+                  <li>Liquidity Lock</li>
+                  <li>Dev Wallet</li>
+                  <li>News Websites & Dicsussion Forum</li>
+                </ul>
+                <p>
+                  <br />
+                  Don't wait anymore! Get your hands here before it's too late!
+                </p>
+              </ContentBlock>
+            </ScrollAnimation>
+          </div>
+          <div className="col-lg-4 col-md-6">
+            <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
+              <ContentBlock classNames="mt-5" title="AI Trading Bot">
+                <p>
+                  AutoTradingAI use deep learning to combine market sentiment &
+                  news analysis with technical chart analysis to take trading
+                  decisions.
+                  <br />
+                  It is an AI-powered trading system with a real-time risk
+                  management engine, designed for traders of all levels.
+                  <br />
+                  The AutoTradingAI will help you make money no matter what the
+                  market does!
+                </p>
+              </ContentBlock>
+            </ScrollAnimation>
+          </div>
+          <div className="col-lg-4 col-md-6">
+            <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
+              <ContentBlock classNames="mt-5" title="Whales AI Tracker">
+                <p>
+                  Whale Tracker AI is the world's first AI based whale tracker
+                  that uses innovative artificial intelligence to search for
+                  whales and track them, then analyses their trades on
+                  blockchain in real-time to trade before the whale does.
+                  <br />
+                  You pre-trade the whale!
+                </p>
+              </ContentBlock>
+            </ScrollAnimation>
+          </div>
+          <div className="col-lg-4 col-md-6">
+            <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
+              <ContentBlock classNames="mt-5" title="Smart Wallet">
+                <p>
+                  The Smart Wallet is the latest and greatest in software-based
+                  wallets. It's easy to use, flexible, and secure.
+                  <br />
+                  You can log in using your fingerprint or Face ID, making it
+                  easier than ever before to manage your wallet on the go!
+                </p>
+              </ContentBlock>
+            </ScrollAnimation>
+          </div>
+          <div className="col-lg-4 col-md-6">
+            <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
+              <ContentBlock classNames="mt-5" title="SearchAI">
+                <p>
+                  SearchAI will be the next-generation Tinder as it matches all
+                  your preferences with the preferences of all other users to
+                  provide you with most accurate suggestions.
+                  <br />
+                  Because of Deep Learning it will become more and more accurate
+                  over time.
+                </p>
+              </ContentBlock>
+            </ScrollAnimation>
+          </div>
+          <div className="col-lg-4 col-md-6">
+            <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
+              <ContentBlock classNames="mt-5" title="Arbitration">
+                <p>
+                  We are here to help people resolve their disputes in an
+                  intelligent manner. Our system is based on human intelligence,
+                  and it comes up with logical solutions that are acceptable for
+                  all parties to dispute.
+                </p>
+              </ContentBlock>
+            </ScrollAnimation>
+          </div>
         </div>
-    );
+      </div>
+    </div>
+  );
 }
 
 export default Features;
