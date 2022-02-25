@@ -42,7 +42,7 @@ function Features() {
           </div>
           <div className="col-lg-4 col-md-6">
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
-              <ContentBlock classNames="mt-5" title="AI Trading Bot">
+              <ContentBlock classNames="mt-5" title="AutoTradingAI">
                 <p>
                   AutoTradingAI use deep learning to combine market sentiment &
                   news analysis with technical chart analysis to take trading
