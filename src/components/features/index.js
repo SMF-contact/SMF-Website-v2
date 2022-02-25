@@ -23,10 +23,9 @@ function Features() {
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
               <ContentBlock classNames="mt-5" title="AntiScamAI">
                 <p>
-                  The AntiScamAI analyser protect you from scams.
+                  The AntiScamAI analyser protects you from scams.
                   <br/><br/>
-                  The algorithm help to avoid criminal's scams trying to steal
-                  your hard-earned money by analysing:<br/><br/>
+                  The algorithms help to avoid criminal's scams trying to steal your hard-earned money by analysing:<br/><br/>
                 </p>
                 <ul>
                   <li>Website & Whitepaper content</li>
@@ -43,9 +42,7 @@ function Features() {
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
               <ContentBlock classNames="mt-5" title="AutoTradingAI">
                 <p>
-                  AutoTradingAI use deep learning to combine market sentiment &
-                  news analysis with technical chart analysis to take trading
-                  decisions.
+                  AutoTradingAI uses deep learning to combine market sentiment & news analysis with technical chart analysis to take trading decisions.
                   <br/><br/>
                   It is an AI-powered trading system with a real-time risk
                   management engine, designed for traders of all levels.
@@ -60,10 +57,7 @@ function Features() {
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
               <ContentBlock classNames="mt-5" title="WhaleTrackerAI">
                 <p>
-                  Whale-Tracker AI is the world's first AI based tracker
-                  that uses innovative artificial intelligence to search for
-                  whales and track them, then analyses their trades on
-                  blockchain in real-time to trade before they does.
+                  WhaleTrackerAI is the world's first AI-based tracker that uses innovative artificial intelligence to search for whales and track them, then analyses their trades on blockchains in real-time to trade before they do.
                   <br/><br/>
                   You pre-trade the whale!
                 </p>
@@ -86,13 +80,9 @@ function Features() {
           <div className="col-lg-4 col-md-6">
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
               <ContentBlock classNames="mt-5" title="SearchAI">
-                <p>
-                  SearchAI will be the next-generation Tinder as it matches all
-                  your preferences with the preferences of all other users to
-                  provide you with most accurate suggestions.
-                  <br/><br/>
-                  Because of Deep Learning it will become more and more accurate
-                  over time.
+                <p>SearchAI will be the next-generation matchmaking system, as it matches your preferences with other users of similar preferences to provide you with the most accurate suggestions.<br/><br/>
+                   This matchmaking is used to bring NFT buyers and sellers of similar tastes together, so you can quickly find NFT's that are of interest to you.<br/><br/>
+                   Through the use of deep learning, the SearchAI system will become even more accurate over time.
                 </p>
               </ContentBlock>
             </ScrollAnimation>
