@@ -24,6 +24,7 @@ ChartJS.register(
   
 function TheBarChart({datasets}) {
   const options = { 
+    type: "bar",
     responsive: true,
     plugins: {
       title: {
@@ -46,9 +47,9 @@ function TheBarChart({datasets}) {
         ticks: {
           color: "#FFF", 
           font: {
-              size: 10
+              size: 12
           }
-        },
+        }
       },
       y: {
         stacked: true,
@@ -69,7 +70,7 @@ function TheBarChart({datasets}) {
               size: 12
           },
           callback: function (value, index, values) {
-          return value / 1e6 + "M";
+           return value / 1e6 + "M";
             }
           }
         }
