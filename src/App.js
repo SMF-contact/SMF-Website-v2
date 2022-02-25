@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import FixedSocial from "./components/helper/fixedsocial";
 import Header from "./components/header";
 import Hero from "./components/hero";
-import Vision from "./components/vision";
+import About from "./components/about";
 import Features from "./components/features";
 import RoadMap from "./components/roadmap";
 import Tokenomics from "./components/tokenmonics";
@@ -23,10 +23,9 @@ const Home = () => {
     <> 
       <FixedSocial/>
       <ScrollTop />
-
       <Header/>  
       <Hero/>  
-      <Vision/>
+      <About/>
       <Features/>
       <RoadMap/>
       <Tokenomics/>
