@@ -38,10 +38,6 @@ function Features() {
                   <li>Dev Wallet</li>
                   <li>News Websites & Dicsussion Forum</li>
                 </ul>
-                <p>
-                  <br />
-                  Don't wait anymore! Get your hands here before it's too late!
-                </p>
               </ContentBlock>
             </ScrollAnimation>
           </div>
