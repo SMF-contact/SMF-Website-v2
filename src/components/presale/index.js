@@ -25,11 +25,11 @@ function Presale() {
                                 </li>
                                 <li>
                                     <b>TOTAL TOKENS</b>
-                                    <span>24,000,000 SMF</span>
+                                    <span>TBD</span>
                                 </li>
                                 <li>
                                     <b>LIQUIDITY</b>
-                                    <span>12,900,000 SMF</span>
+                                    <span>TBD</span>
                                 </li>
                                 <li>
                                     <b>CURRENCY</b>
@@ -41,11 +41,11 @@ function Presale() {
                                 </li>
                                 <li>
                                     <b>PRESALE RATE</b>
-                                    <span>1BNB = 24,000 SMF</span>
+                                    <span>1BNB = TBD</span>
                                 </li>
                                 <li>
                                     <b>LISTING RATE</b>
-                                    <span>1BNB = 17,143 SMF</span>
+                                    <span>1BNB = TBD</span>
                                 </li>
                                 <li>
                                     <b>MIN/MAX BUY</b>
