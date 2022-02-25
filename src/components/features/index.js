@@ -44,7 +44,7 @@ function Features() {
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
               <ContentBlock classNames="mt-5" title="AutoTradingAI">
                 <p>
-                  AutoTradingAI use deep learning to combine market sentiment &
+                  Auto-Trading AI use deep learning to combine market sentiment &
                   news analysis with technical chart analysis to take trading
                   decisions.
                   <br />
@@ -59,12 +59,12 @@ function Features() {
           </div>
           <div className="col-lg-4 col-md-6">
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
-              <ContentBlock classNames="mt-5" title="Whales AI Tracker">
+              <ContentBlock classNames="mt-5" title="WhaleTrackerAI">
                 <p>
-                  Whale Tracker AI is the world's first AI based whale tracker
+                  Whale-Tracker AI is the world's first AI based tracker
                   that uses innovative artificial intelligence to search for
                   whales and track them, then analyses their trades on
-                  blockchain in real-time to trade before the whale does.
+                  blockchain in real-time to trade before they does.
                   <br />
                   You pre-trade the whale!
                 </p>
