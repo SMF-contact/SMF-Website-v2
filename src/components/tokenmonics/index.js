@@ -37,9 +37,9 @@ function Tokenomics() {
   
   // line chart data
   const DataForLineChart = [
-    { title: "USDT Reward", value1: 3, value2: 30, color: "#8CA8FF" },
-    { title: "Liquidity", value1: 4, value2: 40, color: "#3290ED" },
-    { title: "Marketing", value1: 4, value2: 40, color: "#7AF0D1" }
+    { title: "USDT Reward", value: 3, value2: 30, color: "#8CA8FF" },
+    { title: "Liquidity", value: 4, value2: 40, color: "#3290ED" },
+    { title: "Marketing", value: 4, value2: 40, color: "#7AF0D1" }
   ];
 
 
