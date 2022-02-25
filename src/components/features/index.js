@@ -23,8 +23,7 @@ function Features() {
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
               <ContentBlock classNames="mt-5" title="AntiScamAI">
                 <p>
-                  Catering to all levels from beginner to expert, the Anti-Scam
-                  AI analyser protect you from scams.
+                  The Anti-Scam AI analyser protect you from scams.
                   <br />
                   The algorithm help to avoid criminal's scams trying to steal
                   your hard-earned money by analysing:
