@@ -22,92 +22,67 @@ ChartJS.register(
 
 
   
-function TheBarChart({datasets}) { 
-   
+function TheBarChart({datasets}) {
   const options = { 
+    responsive: true,
     plugins: {
       title: {
         display: false,
         // text: 'Bar Chart',
       },
       legend: {
+        position: "right",
         labels: {
           color: "#fff", 
           font: {
-              size: 16
+              size: 10
           }
         }
       }, 
     },
-    responsive: true, 
     scales: {
       x: {
         stacked: true, 
         ticks: {
           color: "#FFF", 
           font: {
-              size: 16
+              size: 10
           }
         },
       },
       y: {
         stacked: true,
         beginAtZero: true,
+        max: 77000000,
         title: {
           display: true,
           text: 'CIRCULATING SUPPLY', 
           color:"#97DAF7", 
           font: {
-              size: 20,
+              size: 18
           },
-          padding:30
+          padding:0
         },
         ticks: {
           color: "#FFF", 
           font: {
-              size: 16
+              size: 12
           },
-          callback: function (value,index) {
-            if (0 == value) { 
-              return "0"
-            }else if (10000000 >= value) { 
-              return "10M"
-            }else if (20000000 >= value){ 
-              return "20M"
-            }else if (30000000 >= value) {
-              return "30M"
-            }else if (40000000 >= value) {
-              return "40M"
-            }else if (50000000 >= value) {
-              return "50M"
-            }else if (60000000 >= value) {
-              return "60M"
-            }else if (70000000 >= value) {
-              return "70M"
-            }else if (80000000 >= value) {
-              return "80M"
-            }else if (90000000 >= value) {
-              return "90M"
-            }else {
-              return value
-            } 
+          callback: function (value, index, values) {
+          return value / 1e6 + "M";
+            }
           }
         }
       },
-      
-    }, 
     animation: {
       easing: 'easeInOutQuad',
       duration: 520
     },
-    elements: {
-      line: {
-        tension: 0.4
-      }
-    },
+    layout: {
+      padding: 0
+    }
   };
    
-
   return <Bar options={options} data={datasets} />;
 }
 export default TheBarChart;
