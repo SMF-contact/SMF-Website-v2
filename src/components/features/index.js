@@ -21,7 +21,7 @@ function Features() {
                     </div>
                     <div className="col-lg-4 col-md-6">
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
-              <ContentBlock classNames="mt-5" title="AnticameAI">
+              <ContentBlock classNames="mt-5" title="AntiScamAI">
                 <p>
                   Catering to all levels from beginner to expert, the Anti-Scam
                   AI analyser protect you from scams.
