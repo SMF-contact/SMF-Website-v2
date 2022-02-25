@@ -70,7 +70,7 @@ function Presale() {
                     <div className="col-lg-4 col-md-5 offset-lg-1">
                         <div className="countdown">
                             <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>   
-                                <CountDown date="Oct 25, 2023" />
+                                <CountDown date="00/00/0000" />
                             </ScrollAnimation>   
                         </div>
                     </div>
