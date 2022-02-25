@@ -9,7 +9,7 @@ import ScrollAnimation from 'react-animate-on-scroll';
 
 
 
-function () {
+function About() {
     return (
         <div className="about-area" id="about">
             <img src={aboutShape} className="aboutShape" alt="" />
