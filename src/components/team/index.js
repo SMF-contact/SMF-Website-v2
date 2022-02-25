@@ -62,7 +62,7 @@ function Team() {
                     />
                     <TeamBlk 
                         img={TeamAvater4}
-                        name={"Dounia"} 
+                        name={"Donna"} 
                         position="Chief Legal Officer" 
                         content="Donna, law enthusiast with a passion for the fine print and policy implications of digital currencies. Living by the motto of high standard of professional conduct, in the realm of digital innovation where it resonates well that « Only lawyers and painters can turn white into black »"
                     />
