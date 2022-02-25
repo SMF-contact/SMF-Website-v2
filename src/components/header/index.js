@@ -34,7 +34,7 @@ function Header() {
                         <div className="col-lg-9 col-4">
                             <div className="menu-area" ref={headerMenu}>
                                 <ul>
-                                    <li><a href="/#vision">Vision</a></li>
+                                    <li><a href="/#about">About</a></li>
                                     <li><a href="/#features">Features</a></li>
                                     <li><a href="/#roadmap">Roadmap</a></li>
                                     <li><a href="/#tokenomics">Tokenomics</a></li>
