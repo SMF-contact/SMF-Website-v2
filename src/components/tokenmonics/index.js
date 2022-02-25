@@ -37,9 +37,9 @@ function Tokenomics() {
   
   // line chart data
   const DataForLineChart = [
-    { title: 'USDT Reward', value: 3, color: '#8CA8FF' },
-    { title: 'Liquidity', value: 4, color: '#3290ED' },
-    { title: 'Marketing', value: 4, color: '#7AF0D1' }, 
+    { title: "USDT Reward", value1: 3, value2: 30, color: "#8CA8FF" },
+    { title: "Liquidity", value1: 4, value2: 40, color: "#3290ED" },
+    { title: "Marketing", value1: 4, value2: 40, color: "#7AF0D1" }
   ];
 
 
@@ -184,7 +184,7 @@ function Tokenomics() {
                             <h5>transaction Tax <span>11%</span></h5>
                             <div className="stickChart">
                                 {DataForLineChart && DataForLineChart.map((data,id) => {
-                                  return <div key={id} style={{width:data.value+"%",background:data.color}}><span>{data.title+ " " + data.value+"%"}</span></div>
+                                  return <div key={id} style={{width:data.value2+"%",background:data.color}}><span>{data.title+ " " + data.value+"%"}</span></div>
                                 })}   
                             </div>
                             <ul className="ul_data-list" style={{margin:"0"}}>
