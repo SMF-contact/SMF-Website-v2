@@ -30,8 +30,8 @@
   min-height: 500px !important;
 }
 
-.content-block {
-  min-height: 100px !important;
+.content-block.intro_vision {
+  min-height: 50px !important;
 }
 
 
