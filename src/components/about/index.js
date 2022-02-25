@@ -19,7 +19,7 @@ function About() {
                     <div className="col-lg-12">
                         <div className="section-title">
                             <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>  
-                                <h3>Our about</h3>
+                                <h3>About</h3>
                             </ScrollAnimation>
                         </div>
                     </div>
