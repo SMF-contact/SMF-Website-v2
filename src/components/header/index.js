@@ -41,7 +41,7 @@ function Header() {
                                     <li><a href="/#presale">Presale</a></li>
                                     <li><a href="/#team">Team</a></li>
                                     <li><a href="/#partners">Partners</a></li>
-                                    <li><a href="/#">Audit</a></li> 
+                                    <li><a href="https://github.com/ContractChecker/audits/blob/main/SmartFinance%20Token%20Audit%20Report%20-%20By%20ContractChecker.pdf">Audit</a></li> 
                                 </ul>
                                 <div className="btns">
                                     <Button classes={"theme-btn"} text="Whitepaper" />
