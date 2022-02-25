@@ -86,7 +86,7 @@ function Hero() {
                             </Tilt>
                             <Tilt className="willMove" options={{ max : 35,perspective:1000, }}>
                                <a href="https://www.marketwatch.com/press-release/smart-finance-announces-launch-of-ico-for-new-cryptocurrency-platform-based-on-ai-and-machine-learning-2022-01-23?tesla=y" target="_blank" rel="noopener noreferrer">
-                                    <img src={Brand} alt="" />
+                                    <img src={Brand5} alt="" />
                                </a>                            
                             </Tilt> 
                         </div>
