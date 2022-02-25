@@ -56,50 +56,50 @@ function Tokenomics() {
   const data = {
     labels:["Dec 21", "Feb 22", "Apr 22", "May 22", "June 22", "Aug 22"],
     datasets: [{
-      barThickness: 100,
-      barPercentage: 0.8,
+      //barThickness: 100,
+      //barPercentage: 0.8,
       label: 'Presale',
       data: [24000000, 24000000, 24000000, 24000000, 24000000, 24000000],
       backgroundColor: colors.presale // hoverBackgroundColor: "#3260ED",
 
     }, {
-      barThickness: 100,
-      barPercentage: 0.8,
+      //barThickness: 100,
+      //barPercentage: 0.8,
       label: 'Liquidity',
       data: [12936000, 12936000, 12936000, 12936000, 12936000, 12936000],
       backgroundColor: colors.liquidity // hoverBackgroundColor: "#d65ad6",
 
     }, {
-      barThickness: 100,
-      barPercentage: 0.8,
+      //barThickness: 100,
+      //barPercentage: 0.8,
       label: 'Airdrop',
       data: [0, 2310000, 2310000, 2310000, 2310000, 2310000],
       backgroundColor: colors.airdrop // hoverBackgroundColor: "6afff1"
 
     }, {
-      barThickness: 100,
-      barPercentage: 0.8,
+      //barThickness: 100,
+      //barPercentage: 0.8,
       label: 'Gaming',
       data: [0, 0, 3850000, 3850000, 3850000, 3850000],
       backgroundColor: colors.gaming // hoverBackgroundColor: "rgba(0,0,0,0)"
 
     }, {
-      barThickness: 100,
-      barPercentage: 0.8,
+      //barThickness: 100,
+      //barPercentage: 0.8,
       label: 'Staking',
       data: [0, 0, 0, 15400000, 15400000, 15400000],
       backgroundColor: colors.staking // hoverBackgroundColor: "rgba(0,0,0,0)"
 
     }, {
-      barThickness: 100,
-      barPercentage: 0.8,
+      //barThickness: 100,
+      //barPercentage: 0.8,
       label: 'Dev',
       data: [0, 0, 0, 0, 3850000, 3850000],
       backgroundColor: colors.dev // hoverBackgroundColor: "rgba(0,0,0,0)"
 
     }, {
-      barThickness: 100,
-      barPercentage: 0.8,
+      //barThickness: 100,
+      //barPercentage: 0.8,
       label: 'Listing',
       data: [0, 0, 0, 0, 0, 14174000],
       backgroundColor: colors.listing // hoverBackgroundColor: "rgba(0,0,0,0)"
