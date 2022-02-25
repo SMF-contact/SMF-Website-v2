@@ -41,11 +41,11 @@ function Presale() {
                                 </li>
                                 <li>
                                     <b>PRESALE RATE</b>
-                                    <span>1BNB = TBD</span>
+                                    <span>1 BNB = TBD</span>
                                 </li>
                                 <li>
                                     <b>LISTING RATE</b>
-                                    <span>1BNB = TBD</span>
+                                    <span>1 BNB = TBD</span>
                                 </li>
                                 <li>
                                     <b>MIN/MAX BUY</b>
@@ -61,9 +61,7 @@ function Presale() {
                         <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>   
                             <div className="airdrop">
                                 <h4>Airdrop:</h4>
-                                <p>1% from the total supply, only for presale contributors.
-                                    Hold at least 65% from the initial contribution.
-                                    30 Days after presale end.</p>
+                                <p>Hold at least 65% from your initial presale contribution for 30 days and you will get your shares of 1% from the total supply. </p>
                             </div>
                         </ScrollAnimation>   
                     </div>
