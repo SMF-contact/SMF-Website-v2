@@ -32,10 +32,10 @@ function Features() {
                   <li>Website content</li>
                   <li>Whitepaper content</li>
                   <li>Social Media posts and comments</li>
+                  <li>News Websites & Dicsussion Forum</li>
                   <li>Smart Contract code</li>
                   <li>Liquidity Lock</li>
                   <li>Dev Wallet</li>
-                  <li>News Websites & Dicsussion Forum</li>
                 </ul>
               </ContentBlock>
             </ScrollAnimation>
