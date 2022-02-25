@@ -65,19 +65,29 @@ function Hero() {
                     <div className="col-lg-12"> 
                         <div className="brands"> 
                             <Tilt className="willMove" options={{ max : 35,perspective:1000, }}>
-                                <img src={Brand} alt="" />
+                               <a href="https://www.digitaljournal.com/pr/smart-finance-announces-launch-of-ico-for-new-cryptocurrency-platform-based-on-ai-and-machine-learning" target="_blank" rel="noopener noreferrer">
+                                    <img src={Brand} alt="" />
+                               </a>
                             </Tilt>
                             <Tilt className="willMove" options={{ max : 35,perspective:1000, }}>
-                                <img src={Brand2} alt="" />
+                               <a href="#" target="_blank" rel="noopener noreferrer">
+                                    <img src={Brand2} alt="" />
+                               </a>
                             </Tilt>
                             <Tilt className="willMove" options={{ max : 35,perspective:1000, }}>
-                                <img src={Brand3} alt="" />
+                               <a href="#" target="_blank" rel="noopener noreferrer">
+                                    <img src={Brand3} alt="" />
+                               </a>
                             </Tilt>
                             <Tilt className="willMove" options={{ max : 35,perspective:1000, }}>
-                                <img src={Brand4} alt="" />
+                               <a href="https://www.benzinga.com/pressreleases/22/01/25108833/smart-finance-announces-launch-of-ico-for-new-cryptocurrency-platform-based-on-ai-and-machine-learn" target="_blank" rel="noopener noreferrer">
+                                    <img src={Brand4} alt="" />
+                               </a>
                             </Tilt>
                             <Tilt className="willMove" options={{ max : 35,perspective:1000, }}>
-                                <img src={Brand5} alt="" />
+                               <a href="https://www.marketwatch.com/press-release/smart-finance-announces-launch-of-ico-for-new-cryptocurrency-platform-based-on-ai-and-machine-learning-2022-01-23?tesla=y" target="_blank" rel="noopener noreferrer">
+                                    <img src={Brand} alt="" />
+                               </a>                            
                             </Tilt> 
                         </div>
                     </div>
