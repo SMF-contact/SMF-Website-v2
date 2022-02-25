@@ -26,14 +26,13 @@
     margin: 0;
     text-transform: uppercase;
 }
-.content-block.btm_about {
-    min-height: 595px;
+.content-block.btm_vision {
+  min-height: 500px !important;
 }
 
-
-
-
-
+.content-block {
+  min-height: 100px !important;
+}
 
 
 
