@@ -27,7 +27,7 @@
     object-fit: cover;
 }
 .content-block {
-  min-height: 410px !important;
+  min-height: 400px !important;
 }
 
 .content-block p {
