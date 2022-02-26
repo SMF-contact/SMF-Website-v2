@@ -29,3 +29,6 @@
 .content-block {
   min-height: 490px !important;
 }
+p {
+    padding-bottom: 10px;
+}
