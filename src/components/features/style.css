@@ -29,6 +29,7 @@
 .content-block {
   min-height: 410px !important;
 }
-p {
+
+.content-block p {
     padding-bottom: 10px !important;
 }
