@@ -67,7 +67,7 @@ function RoadMap() {
                                                     <li>Whitepaper v2 Release</li>
                                                     <li>DaPP Interface Design</li>
                                                     <li>Presale Launch</li>
-                                                    <li>Airdrop </li>
+                                                    <li>Airdrop</li>
                                                     <li>CMC/CG Listing</li>
                                                     <li>AntiScamAI Beta Launch</li>
                                                 </ul>

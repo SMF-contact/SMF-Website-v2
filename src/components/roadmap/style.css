@@ -12,10 +12,12 @@
   top: 0;
   left: 0;
   object-fit: cover;
-} 
+}
 .roadmapWrp-blk {
     display: flex;
-    position: relative;
+    position: absolute;
+    left: 100px;
+    top: 0;
 }
 
 .roadmapWrp-blk h2 {font-size: 36px;color: #fff;margin-right: 150px;position: relative;}
@@ -74,9 +76,9 @@
   height: 700px;
   padding-right: 150px;
 }
-  
-.swiper-slide { 
-  background: #0000; 
+
+.swiper-slide {
+  background: #0000;
   display: -webkit-box;
   display: -ms-flexbox;
   display: -webkit-flex;
@@ -136,30 +138,6 @@
 .swiper-button-next::after {
   transform: rotate(-136deg) translate(20%,22%);
 }
-.roadmap_slider { 
+.roadmap_slider {
   cursor: url("../../imgs/arrow_32.png"),auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
