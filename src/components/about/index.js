@@ -4,8 +4,8 @@ import ContentBlock from "../helper/block/"
 import aboutShape from "../../imgs/about-shape.png"
 import CircleBackg from "../../imgs/circles.png"
 import VDefi from "../../imgs/global.svg"
-import vmarketPlace from "../../imgs/networking.svg" 
-import ScrollAnimation from 'react-animate-on-scroll'; 
+import vmarketPlace from "../../imgs/networking.svg"
+import ScrollAnimation from 'react-animate-on-scroll';
 
 
 
@@ -18,21 +18,21 @@ function About() {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="section-title">
-                            <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>  
+                            <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>
                                 <h3>About</h3>
                             </ScrollAnimation>
                         </div>
                     </div>
                     <div className="col-lg-12">
-                        <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>  
+                        <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>
                             <ContentBlock classNames="intro_about mt-5">
-                                <p>Smart Finance is a decentralised platform powered by Artificial Intelligence. The platform offers Defi services such as a Whale Tracker and an Anti-Scam Scanner, and a P2P Marketplace where buyers and sellers can make profitable deals. <br /><br />
-                                A sophisticated artificial intelligence technology works at the back end of the Smart Finance platform. The platform has taken digital asset trading to a whole new level through the accuracy and speed of Artificial Intelligence which can increase profitability by trading smarter.</p>
+                                <p>Smart Finance is a decentralised platform powered by Artificial Intelligence. The platform offers Defi services such as a Whale Tracker and an Anti-Scam Scanner, and a P2P Marketplace where buyers and sellers can make profitable deals.</p>
+                                <p>A sophisticated artificial intelligence technology works at the back end of the Smart Finance platform. The platform has taken digital asset trading to a whole new level through the accuracy and speed of Artificial Intelligence which can increase profitability by trading smarter.</p>
                             </ContentBlock>
                         </ScrollAnimation>
                     </div>
                     <div className="col-lg-6">
-                        <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>  
+                        <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>
                             <ContentBlock classNames="btm_about mt-5" title="Defi App" img={VDefi}>
                                 <p>Operates as a Decentralized Yield Optimizer platform, allowing users to earn compound interest on their assets.</p>
                                 <p>It automatically optimizes user returns from different liquidity pools (LPs), automated market making (AMM), and other yield farming possibilities in the DeFi ecosystem using a set investment methods protected and enforced by smart contracts and powered by AI.</p>
@@ -54,5 +54,3 @@ function About() {
 }
 
 export default About;
-
-
