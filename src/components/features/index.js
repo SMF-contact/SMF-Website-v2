@@ -38,16 +38,16 @@ function Features() {
           <div className="col-lg-4 col-md-6">
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
               <ContentBlock classNames="mt-5" title="AutoTradingAI">
-                <p>AutoTradingAI uses deep learning to combine market sentiment & news analysis with technical chart analysis to take trading decisions.<p/>
-                <p>It is an AI-powered trading system with a real-time risk management engine, designed for traders of all levels.<p/>
-                <p>The AutoTradingAI will help you make money no matter what the market does!<p/>
+                <p>AutoTradingAI uses deep learning to combine market sentiment & news analysis with technical chart analysis to take trading decisions.</p>
+                <p>It is an AI-powered trading system with a real-time risk management engine, designed for traders of all levels.</p>
+                <p>The AutoTradingAI will help you make money no matter what the market does!</p>
               </ContentBlock>
             </ScrollAnimation>
           </div>
           <div className="col-lg-4 col-md-6">
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
               <ContentBlock classNames="mt-5" title="WhaleTrackerAI">
-                <p>WhaleTrackerAI is the world's first AI-based tracker that uses innovative artificial intelligence to search for whales and track them, then analyses their trades on blockchains in real-time to trade before they do.<p/>
+                <p>WhaleTrackerAI is the world's first AI-based tracker that uses innovative artificial intelligence to search for whales and track them, then analyses their trades on blockchains in real-time to trade before they do.</p>
                 <p>You pre-trade the whale!</p>
               </ContentBlock>
             </ScrollAnimation>
@@ -55,7 +55,7 @@ function Features() {
           <div className="col-lg-4 col-md-6">
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
               <ContentBlock classNames="mt-5" title="Smart Wallet">
-                <p>The Smart Wallet is the latest and greatest in software-based wallets. It's easy to use, flexible, and secure.<p/>
+                <p>The Smart Wallet is the latest and greatest in software-based wallets. It's easy to use, flexible, and secure.</p>
                 <p>You can log in using your fingerprint or Face ID, making it
                   easier than ever before to manage your wallet on the go!</p>
               </ContentBlock>
