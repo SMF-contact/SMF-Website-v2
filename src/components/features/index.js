@@ -22,7 +22,7 @@ function Features() {
                     <div className="col-lg-4 col-md-6">
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
               <ContentBlock classNames="mt-5" title="AntiScamAI">
-                <p>The AntiScamAI analyser protects you from scams.<p/>
+                <p>The AntiScamAI analyser protects you from scams.</p>
                 <p>The algorithms help to avoid criminal's scams trying to steal your hard-earned money by analysing:</p>
                 <ul>
                   <li>Website & Whitepaper content</li>
@@ -74,8 +74,8 @@ function Features() {
           <div className="col-lg-4 col-md-6">
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
               <ContentBlock classNames="mt-5" title="Arbitration">
-                <p>We are here to help people resolve their disputes in an intelligent manner.</p>
-                <p>Our system is based on human intelligence, and it comes up with logical solutions that are acceptable for all parties to dispute.</p>
+              <p>We are here to help people resolve their disputes in an intelligent manner.</p>
+              <p>Arbitration is performed through either AI or out via a DAO vote, creating logical solutions that are good for both parties during a dispute thus always ensuring a smooth trade.</p>
               </ContentBlock>
             </ScrollAnimation>
           </div>
