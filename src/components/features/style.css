@@ -26,8 +26,6 @@
     z-index: -1;
     object-fit: cover;
 }
-
-
 .content-block {
-  min-height: 500px !important;
+  min-height: 490px !important;
 }
