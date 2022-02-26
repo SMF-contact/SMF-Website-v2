@@ -15,6 +15,10 @@
     z-index: -1;
 }
 
+p {
+  line-height: normal;
+}
+
 .teamBlk {
     background: rgba(29, 24, 87, 0.5);
     text-align: center;
