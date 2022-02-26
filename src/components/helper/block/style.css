@@ -1,8 +1,8 @@
 .content-block {
     padding: 20px;
-    background: linear-gradient(rgba(33, 27, 99, 0.85), rgba(33, 27, 99, 0.15)); 
+    background: linear-gradient(rgba(33, 27, 99, 0.85), rgba(33, 27, 99, 0.15));
     border-radius: 30px;
-    line-height: 30.6px;
+    line-height: 25px;
     padding-bottom: 20px;
     position:relative;
     font-family: DaxRegular;
@@ -60,11 +60,3 @@
 .content-block:hover:after {
     opacity: 1;
 }
-
-
-
-
-
-
-
-
