@@ -74,7 +74,7 @@ function Features() {
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
               <ContentBlock classNames="mt-5" title="Arbitration">
               <p>We are here to help people resolve their disputes in an intelligent manner.</p>
-              <p>Arbitration is performed through either AI or out via a DAO vote, creating logical solutions that are good for both parties during a dispute thus always ensuring a smooth trade.</p>
+              <p>Arbitration is performed through either AI or via a DAO vote, creating logical solutions that are good for both parties during a dispute thus always ensuring a smooth trade.</p>
               </ContentBlock>
             </ScrollAnimation>
           </div>

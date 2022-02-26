@@ -1,7 +1,7 @@
 .about-area {
     position: relative;
     z-index: 1;
-    padding-top: 215px; 
+    padding-top: 215px;
     background: linear-gradient(rgb(15 11 67), rgba(13, 9, 59, 1));
 }
 .about-area img.aboutShape {
@@ -34,9 +34,6 @@
   min-height: 50px !important;
 }
 
-
-
-
-
-
-
+p {
+    padding-bottom: 10px !important;
+}
