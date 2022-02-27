@@ -34,8 +34,8 @@ function About() {
                     <div className="col-lg-6">
                         <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>
                             <ContentBlock classNames="btm_about mt-5" title="Defi App" img={VDefi}>
-                                <p>The Defy app is your all-in-one portal to access your investments with Smart Finance and find the trading features we have on offer.</p>
-                                <p>Connect your wallet and use our DAPP (Defy App) to access the following services:</p>
+                                <p>The DeFi app is your all-in-one portal to access your investments with Smart Finance and find the trading features we have on offer.</p>
+                                <p>Connect your wallet and use our DAPP (DeFi App) to access the following services:</p>
                                 <ul>
                                     <li>View your SMF token balance.</li>
                                     <li>Access SmartStake, our SMF token staking feature.</li>
