@@ -28,6 +28,7 @@ function TheBarChart({ datasets }) {
   const options = {
     type: "bar",
     responsive: true,
+    barPercentage: 0.7,
     plugins: {
       title: {
         display: false,
@@ -39,9 +40,10 @@ function TheBarChart({ datasets }) {
         position: "right",
         labels: {
           color: "#fff",
+          boxWidth: 15,
           responsive: true,
           font: {
-            size: 10,
+            size: 15,
             responsive: true
           }
         }
@@ -55,7 +57,7 @@ function TheBarChart({ datasets }) {
           color: "#FFF",
           responsive: true,
           font: {
-            size: 12,
+            size: 13,
             responsive: true,
           }
         }
@@ -71,7 +73,7 @@ function TheBarChart({ datasets }) {
           color: "#97DAF7",
           responsive: true,
           font: {
-            size: 18,
+            size: 20,
             responsive: true,
           },
           padding: 0
@@ -80,7 +82,7 @@ function TheBarChart({ datasets }) {
           color: "#FFF",
           responsive: true,
           font: {
-            size: 12,
+            size: 13,
             responsive: true
           },
           callback: function (value, index, values) {
