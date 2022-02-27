@@ -33,3 +33,6 @@
 .content-block p {
     padding-bottom: 10px !important;
 }
+ p.nopadding {
+    padding-bottom: 0px !important;
+ }

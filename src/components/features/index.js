@@ -66,7 +66,7 @@ function Features() {
               <ContentBlock classNames="mt-5" title="SearchAI">
                 <p>SearchAI will be the next-generation matchmaking system, as it matches your preferences with other users preferences to provide you with the most accurate suggestions.</p>
                 <p>This matchmaking is used to bring NFT buyers and sellers of similar tastes together, so you can quickly find NFT's that are of interest to you.</p>
-                <p>Through the use of deep learning, the SearchAI system will become even more accurate over time.</p>
+                <p class="nopadding">Through the use of deep learning, the SearchAI system will become even more accurate over time.</p>
               </ContentBlock>
             </ScrollAnimation>
           </div>
