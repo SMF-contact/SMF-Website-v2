@@ -34,13 +34,19 @@ function About() {
                     <div className="col-lg-6">
                         <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>
                             <ContentBlock classNames="btm_about mt-5" title="Defi App" img={VDefi}>
-                                <p>Operates as a Decentralized Yield Optimizer platform, allowing users to earn compound interest on their assets.</p>
-                                <p>It automatically optimizes user returns from different liquidity pools (LPs), automated market making (AMM), and other yield farming possibilities in the DeFi ecosystem using a set investment methods protected and enforced by smart contracts and powered by AI.</p>
+                                <p>The Defy app is your all-in-one portal to access your investments with Smart Finance and find the trading features we have on offer.</p>
+                                <p>Connect your wallet and use our DAPP (Defy App) to access the following services:</p>
+                                <ul>
+                                    <li>View your SMF token balance.</li>
+                                    <li>Access SmartStake, our SMF token staking feature.</li>
+                                    <li>Access SmartDex, our decentralised exchange.</li>
+                                    <li>Access to our trading tools, including the AntiScamAI, AutoTradingAI, and the WhaleTrackerAI.</li>
+                                </ul>
                             </ContentBlock>
                         </ScrollAnimation>
                     </div>
                     <div className="col-lg-6">
-                        <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>  
+                        <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>
                             <ContentBlock classNames="btm_about mt-5" title="Marketplace" img={ vmarketPlace}>
                                 <p>The P2P marketplace is where buyers and sellers meet to carry out operations involving digital goods and assets in a secure way, involving AI for searching, matching, and advising.</p>
                                 <p>One of the multiple advantages is the automatic matching of users, based on a straight AI approach.</p>
