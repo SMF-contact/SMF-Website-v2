@@ -35,12 +35,12 @@ function About() {
                         <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>
                             <ContentBlock classNames="btm_about mt-5" title="Defi App" img={VDefi}>
                                 <p>The DeFi app is your all-in-one portal to access your investments with Smart Finance and find the trading features we have on offer.</p>
-                                <p>Connect your wallet and use our DAPP (DeFi App) to access the following services:</p>
+                                <p>Connect your wallet and use our DAPP to access the following services:</p>
                                 <ul>
                                     <li>View your SMF token balance.</li>
                                     <li>Access SmartStake, our SMF token staking feature.</li>
                                     <li>Access SmartDex, our decentralised exchange.</li>
-                                    <li>Access to our trading tools, including the AntiScamAI, AutoTradingAI, and the WhaleTrackerAI.</li>
+                                    <li>Access to our trading tools.</li>
                                 </ul>
                             </ContentBlock>
                         </ScrollAnimation>
