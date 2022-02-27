@@ -48,8 +48,9 @@ function About() {
                     <div className="col-lg-6">
                         <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>
                             <ContentBlock classNames="btm_about mt-5" title="Marketplace" img={ vmarketPlace}>
-                                <p>The P2P marketplace is where buyers and sellers meet to carry out operations involving digital goods and assets in a secure way, involving AI for searching, matching, and advising.</p>
-                                <p>One of the multiple advantages is the automatic matching of users, based on a straight AI approach.</p>
+                                <p>The Smart Finance marketplace is where buyers and sellers of NFT collections are brought together in a secure way.</p>
+                                <p>Through AI processing we will match buyers with like-minded sellers, and get recommended NFT collections based on their specific tastes.</p>
+                                <p>Our AI system provides assistance with trading, to ensure an efficient and safe transaction with full arbitration services to guarantee a satisfactory outcome of every trade.</p>
                             </ContentBlock>
                         </ScrollAnimation>
                     </div>
