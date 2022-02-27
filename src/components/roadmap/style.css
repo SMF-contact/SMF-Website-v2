@@ -17,7 +17,7 @@
     display: flex;
     position: absolute;
     left: 100px;
-    top: 0;
+    top: 55px;
 }
 
 .roadmapWrp-blk h2 {font-size: 36px;color: #fff;margin-right: 150px;position: relative;}
