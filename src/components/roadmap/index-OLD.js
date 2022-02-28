@@ -62,15 +62,14 @@ function RoadMap() {
                                             <div className="roadmapWrp-blk">
                                                 <h2>2022-Q1</h2>
                                                 <ul>
-                                                    <li>1.000 Social Media User </li>
                                                     <li>Smart Contract Audit</li>
                                                     <li>Identity Rebranding</li>
                                                     <li>Whitepaper v2 Release</li>
                                                     <li>DaPP Interface Design</li>
                                                     <li>Presale Launch</li>
-                                                    <li>Pancakeswap Listing</li>
+                                                    <li>Airdrop</li>
                                                     <li>CMC/CG Listing</li>
-
+                                                    <li>AntiScamAI Beta Launch</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -80,13 +79,15 @@ function RoadMap() {
                                             <div className="roadmapWrp-blk">
                                                 <h2>2022-Q2</h2>
                                                 <ul>
-                                                    <li>Airdrop</li>
-                                                    <li>Marketplace Interface design</li>
-                                                    <li>Dapp Audit</li>
-                                                    <li>Dapp Launch </li>
-                                                    <li>AntiScamAI Beta Launch</li>
-                                                    <li>SmartStake</li>
-                                                    <li>SmartDEX Launch</li>
+                                                    <li>Concept Design</li>
+                                                    <li>Architectural Design</li>
+                                                    <li>Marketing Strategy</li>
+                                                    <li>Business Plan</li>
+                                                    <li>Website Launch</li>
+                                                    <li>Whitepaper Release</li>
+                                                    <li>Social Media Channel</li>
+                                                    <li>Presale Launch</li>
+                                                    <li>Pancakeswap Listing</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -96,12 +97,15 @@ function RoadMap() {
                                             <div className="roadmapWrp-blk">
                                                 <h2>2022-Q3</h2>
                                                 <ul>
-                                                    <li>Marketplace Beta </li>
-                                                    <li>Exchange Listings</li>
-                                                    <li>Loyalty Program Announcement</li>
-                                                    <li>Marketplace Audit</li>
-                                                    <li>Marketplace Launch</li>
-                                                    <li>AntiScamAI Launch</li>
+                                                    <li>Concept Design</li>
+                                                    <li>Architectural Design</li>
+                                                    <li>Marketing Strategy</li>
+                                                    <li>Business Plan</li>
+                                                    <li>Website Launch</li>
+                                                    <li>Whitepaper Release</li>
+                                                    <li>Social Media Channel</li>
+                                                    <li>Presale Launch</li>
+                                                    <li>Pancakeswap Listing</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -111,11 +115,15 @@ function RoadMap() {
                                             <div className="roadmapWrp-blk">
                                                 <h2>2022-Q4</h2>
                                                 <ul>
-                                                    <li>SearchAI Learning</li>
-                                                    <li>Arbitration Beta</li>
-                                                    <li>Smart Wallet Beta</li>
-                                                    <li>AutoTradingAI Beta</li>
-                                                    <li>WhaleTrackerAI Beta</li>
+                                                    <li>Concept Design</li>
+                                                    <li>Architectural Design</li>
+                                                    <li>Marketing Strategy</li>
+                                                    <li>Business Plan</li>
+                                                    <li>Website Launch</li>
+                                                    <li>Whitepaper Release</li>
+                                                    <li>Social Media Channel</li>
+                                                    <li>Presale Launch</li>
+                                                    <li>Pancakeswap Listing</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -125,12 +133,15 @@ function RoadMap() {
                                             <div className="roadmapWrp-blk">
                                                 <h2>2023-Q1</h2>
                                                 <ul>
-                                                    <li>SearchAI Launch</li>
-                                                    <li>Arbitration Launch</li>
-                                                    <li>Smart Wallet Launch</li>
-                                                    <li>AutoTradingAI Launch</li>
-                                                    <li>WhaleTrackerAI Launch</li>
-                                                    <li>WhaleTrackerAI Feature Copy</li>
+                                                    <li>Concept Design</li>
+                                                    <li>Architectural Design</li>
+                                                    <li>Marketing Strategy</li>
+                                                    <li>Business Plan</li>
+                                                    <li>Website Launch</li>
+                                                    <li>Whitepaper Release</li>
+                                                    <li>Social Media Channel</li>
+                                                    <li>Presale Launch</li>
+                                                    <li>Pancakeswap Listing</li>
                                                 </ul>
                                             </div>
                                         </div>
