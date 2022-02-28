@@ -1,6 +1,6 @@
 import React,{useEffect, useState} from "react";
 import {CopyToClipboard} from 'react-copy-to-clipboard';
-import ScrollAnimation from 'react-animate-on-scroll'; 
+import ScrollAnimation from 'react-animate-on-scroll';
 import Tilt from 'react-tilt'
 
 import "./style.css"
@@ -20,7 +20,7 @@ function Hero() {
     const [AddressToCopy,setAddressToCopy] = useState("");
     const [Copied,setCopied] = useState(false);
     useEffect(() => {
-        setAddressToCopy("0xAE973B22d9764476041043C7d6eFdF20a5E6093F")  
+        setAddressToCopy("0xAE973B22d9764476041043C7d6eFdF20a5E6093F")
     },[])
 
     return (
@@ -28,20 +28,20 @@ function Hero() {
             <img src={HeroBackg} className="hero_img" alt="" />
             <div className="container">
                 <div className="row">
-                    <div className="col-lg-5"> 
+                    <div className="col-lg-5">
                         <div className="hero-wrp">
                             <h2>Smart<span>Finance</span></h2>
                             <p className="whiteColor">The first ever platform powerd by AI</p>
                             <p>A new AI-powered platform that offers DeFi services as well as P2P trading and investing tools. All of this is made possible by our one-of-a-kind Artificial Intelligence, Machine Learning, and Mathematical Expectations approach.</p>
-                            <CountDown date="00/00/0000" />{/* you could use both date formate no problem: Oct 25, 2023 OR 12/25/2022 */} 
-                        </div> 
+                            <CountDown date="00/00/0000" />{/* you could use both date formate no problem: Oct 25, 2023 OR 12/25/2022 */}
+                        </div>
                     </div>
-                    <div className="col-lg-7"> 
+                    <div className="col-lg-7">
                         <div className="hero-img">
                             <img src={HeroImg} alt="" />
-                        </div> 
+                        </div>
                     </div>
-                </div> 
+                </div>
                 <div className="row">
                     <div className="col-lg-6 offset-lg-3 text-center">
                         <div className="copyAddress">
@@ -51,19 +51,19 @@ function Hero() {
                                 setTimeout(() => {
                                     setCopied(false)
                                 }, 2000);
-                            }}> 
+                            }}>
                             <label>
                                 <input type="text" defaultValue={AddressToCopy} readOnly/>
                                 <button type="button">Copy Address</button>
                             </label>
                             </CopyToClipboard>
-                            {Copied ? <span className="copied_success">copied success fully</span> : "" } 
-                        </div> 
+                            {Copied ? <span className="copied_success">Copied to clipboard!</span> : "" } 
+                        </div>
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col-lg-12"> 
-                        <div className="brands"> 
+                    <div className="col-lg-12">
+                        <div className="brands">
                             <Tilt className="willMove" options={{ max : 35,perspective:1000, }}>
                                <a href="https://www.digitaljournal.com/pr/smart-finance-announces-launch-of-ico-for-new-cryptocurrency-platform-based-on-ai-and-machine-learning" target="_blank" rel="noopener noreferrer">
                                     <img src={Brand} alt="" />
@@ -87,11 +87,11 @@ function Hero() {
                             <Tilt className="willMove" options={{ max : 35,perspective:1000, }}>
                                <a href="https://www.marketwatch.com/press-release/smart-finance-announces-launch-of-ico-for-new-cryptocurrency-platform-based-on-ai-and-machine-learning-2022-01-23?tesla=y" target="_blank" rel="noopener noreferrer">
                                     <img src={Brand5} alt="" />
-                               </a>                            
-                            </Tilt> 
+                               </a>
+                            </Tilt>
                         </div>
                     </div>
-                </div> 
+                </div>
             </div>
         </div>
     );

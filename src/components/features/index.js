@@ -72,10 +72,10 @@ function Features() {
           </div>
           <div className="col-lg-4 col-md-6">
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
-              <ContentBlock classNames="mt-5" title="Arbitration">
-              <p>Trade using our marketplace with full peace of mind using our arbitration system.</p>
+              <ContentBlock classNames="mt-5" title="ArbitrationAI">
+              <p>Trade using our marketplace with full peace of mind using our ArbitrationAI system.</p>
               <p>We are here to help people resolve their disputes in an intelligent manner.</p>
-              <p>Arbitration is performed through either AI or via a DAO vote, creating logical solutions that are good for both parties during a dispute thus always ensuring a smooth trade.</p>
+              <p>ArbitrationAI is performed through either AI or via a DAO vote, creating logical solutions that are good for both parties during a dispute thus always ensuring a smooth trade.</p>
               </ContentBlock>
             </ScrollAnimation>
           </div>
