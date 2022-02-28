@@ -43,12 +43,13 @@
 }
 
 .roadmapWrp-blk li.roundShape::before {
-    width: 11px;
+    width: 9px;
     height: 9px;
-    top: 9px;
-    border-radius: 4px;
+    top: 10px;
+    left: -2px;
+    border-radius: 9px;
     border: none;
-    background: #5BCCFC;
+    background: #C04E4E;
     transform: rotate(0deg);
 }
 

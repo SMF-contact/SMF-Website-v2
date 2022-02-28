@@ -67,10 +67,9 @@ function RoadMap() {
                                                     <li>Identity Rebranding</li>
                                                     <li>Whitepaper v2 Release</li>
                                                     <li>DaPP Interface Design</li>
-                                                    <li>Presale Launch</li>
-                                                    <li>Pancakeswap Listing</li>
-                                                    <li>CMC/CG Listing</li>
-
+                                                    <li class="roundShape" >Presale Launch</li>
+                                                    <li class="roundShape" >Pancakeswap Listing</li>
+                                                    <li class="roundShape" >CMC/CG Listing</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -80,13 +79,13 @@ function RoadMap() {
                                             <div className="roadmapWrp-blk">
                                                 <h2>2022-Q2</h2>
                                                 <ul>
-                                                    <li>Airdrop</li>
-                                                    <li>Marketplace Interface design</li>
-                                                    <li>Dapp Audit</li>
-                                                    <li>Dapp Launch </li>
-                                                    <li>AntiScamAI Beta Launch</li>
-                                                    <li>SmartStake</li>
-                                                    <li>SmartDEX Launch</li>
+                                                    <li class="roundShape" >Airdrop</li>
+                                                    <li class="roundShape" >Marketplace Interface design</li>
+                                                    <li class="roundShape" >Dapp Audit</li>
+                                                    <li class="roundShape" >Dapp Launch </li>
+                                                    <li class="roundShape" >AntiScamAI Beta Launch</li>
+                                                    <li class="roundShape" >SmartStake</li>
+                                                    <li class="roundShape" >SmartDEX Launch</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -96,12 +95,12 @@ function RoadMap() {
                                             <div className="roadmapWrp-blk">
                                                 <h2>2022-Q3</h2>
                                                 <ul>
-                                                    <li>Marketplace Beta </li>
-                                                    <li>Exchange Listings</li>
-                                                    <li>Loyalty Program Announcement</li>
-                                                    <li>Marketplace Audit</li>
-                                                    <li>Marketplace Launch</li>
-                                                    <li>AntiScamAI Launch</li>
+                                                    <li class="roundShape" >Marketplace Beta </li>
+                                                    <li class="roundShape" >Exchange Listings</li>
+                                                    <li class="roundShape" >Loyalty Program Announcement</li>
+                                                    <li class="roundShape" >Marketplace Audit</li>
+                                                    <li class="roundShape" >Marketplace Launch</li>
+                                                    <li class="roundShape" >AntiScamAI Launch</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -111,11 +110,11 @@ function RoadMap() {
                                             <div className="roadmapWrp-blk">
                                                 <h2>2022-Q4</h2>
                                                 <ul>
-                                                    <li>SearchAI Learning</li>
-                                                    <li>Arbitration Beta</li>
-                                                    <li>Smart Wallet Beta</li>
-                                                    <li>AutoTradingAI Beta</li>
-                                                    <li>WhaleTrackerAI Beta</li>
+                                                    <li class="roundShape" >SearchAI Learning</li>
+                                                    <li class="roundShape" >Arbitration Beta</li>
+                                                    <li class="roundShape" >Smart Wallet Beta</li>
+                                                    <li class="roundShape" >AutoTradingAI Beta</li>
+                                                    <li class="roundShape" >WhaleTrackerAI Beta</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -125,12 +124,12 @@ function RoadMap() {
                                             <div className="roadmapWrp-blk">
                                                 <h2>2023-Q1</h2>
                                                 <ul>
-                                                    <li>SearchAI Launch</li>
-                                                    <li>Arbitration Launch</li>
-                                                    <li>Smart Wallet Launch</li>
-                                                    <li>AutoTradingAI Launch</li>
-                                                    <li>WhaleTrackerAI Launch</li>
-                                                    <li>WhaleTrackerAI Feature Copy</li>
+                                                    <li class="roundShape" >SearchAI Launch</li>
+                                                    <li class="roundShape" >Arbitration Launch</li>
+                                                    <li class="roundShape" >Smart Wallet Launch</li>
+                                                    <li class="roundShape" >AutoTradingAI Launch</li>
+                                                    <li class="roundShape" >WhaleTrackerAI Launch</li>
+                                                    <li class="roundShape" >WhaleTrackerAI Feature Copy</li>
                                                 </ul>
                                             </div>
                                         </div>
