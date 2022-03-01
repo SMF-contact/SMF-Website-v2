@@ -58,7 +58,6 @@ function Privacypolicy() {
 
                                  <p>9. <b>Security of Data</b></p>
                                  <p>The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p>
-                                 </b></p>
 
                                  <p>13. <b>Service Providers</b></p>
                                  <p>We may employ third party companies and individuals to facilitate our Service (<b>“Service Providers”</b>), provide Service on our behalf, perform Service-related services or assist us in analysing how our Service is used.</p>
