@@ -176,14 +176,17 @@
     .container-fluid{
         padding: 0 10px;
     }
-    .fixed-social a svg {width: 30px;}
+    .fixed-social a svg {
+        width: 30px;
+    }
 
     .fixed-social a {
-        margin: 3px 0;
+        margin: 1px 0;
     }
 
     .fixed-social {
-        padding: 10px 0;
+      padding: 0px 0;
+      width: 40px;
     }
     .hero-area .row:first-child {
         flex-direction: column-reverse;
