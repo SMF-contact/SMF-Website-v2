@@ -1,6 +1,10 @@
 import React,{useState,useEffect} from "react";
 import Button from "../../helper/button"
 import "./style.css"
+/*
+const CountDown = () => {
+  const [countdownDate, setCountdownDate] = useState(new Date('2022-03-01T06:00:00').getTime())
+*/
 const CountDown = ({date}) => {
   const [countdownDate, setCountdownDate] = useState(new Date(date).getTime());
   const [state, setState] = useState({
@@ -45,7 +49,7 @@ const CountDown = ({date}) => {
   };
 
   return (
-    <> 
+    <>
     {/* { 0 < state.days && 0 < state.hours && 0 < state.minutes && 0 < state.seconds ?   */}
       <div className="countDownItIs">
         <h4 className="title">PRESALE START IN</h4>
@@ -53,15 +57,15 @@ const CountDown = ({date}) => {
           <div className='time-section'>
             <div className='time'>{state.days || '0'}</div>
             <small className="time-text">Days</small>
-          </div> 
+          </div>
           <div className='time-section'>
             <div className='time'>{state.hours || '00'}</div>
             <small className="time-text">Hours</small>
-          </div> 
+          </div>
           <div className='time-section'>
             <div className='time'>{state.minutes || '00'}</div>
             <small className="time-text">Minutes</small>
-          </div> 
+          </div>
           <div className='time-section'>
             <div className='time'>{state.seconds || '00'}</div>
             <small className="time-text">Seconds</small>
