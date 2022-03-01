@@ -15,8 +15,6 @@ function Privacypolicy() {
                         <div className="col-lg-12">
                              <div className="content-wrps">
                                  <h3 className="privacyPolicy">Privacy policy</h3>
-
-                                 <h2 style="text-align: center;"><b>PRIVACY POLICY</b></h2>
                                  <p>Effective date: 2022-01-01</p>
                                  <p>1. <b>Introduction</b></p>
                                  <p>Welcome to <b> Smart Finance</b>.</p>
