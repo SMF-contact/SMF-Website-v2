@@ -59,7 +59,7 @@ function Tokenomics() {
       //barThickness: 100,
       //barPercentage: 0.8,
       label: 'Presale',
-      data: [28800000, 28800000, 28800000, 28800000, 28800000, 28800000],
+      data: [29376000, 29376000, 29376000, 29376000, 29376000, 29376000],
       backgroundColor: colors.presale // hoverBackgroundColor: "#3260ED",
 
     }, {
@@ -79,9 +79,9 @@ function Tokenomics() {
     }, {
       //barThickness: 100,
       //barPercentage: 0.8,
-      label: 'Gaming',
-      data: [0, 0, 3850000, 3850000, 3850000, 3850000],
-      backgroundColor: colors.gaming // hoverBackgroundColor: "rgba(0,0,0,0)"
+      label: 'SmartDEX',
+      data: [0, 0, 7700000, 7700000, 7700000, 7700000],
+      backgroundColor: colors.smartdex // hoverBackgroundColor: "rgba(0,0,0,0)"
 
     }, {
       //barThickness: 100,
@@ -93,7 +93,7 @@ function Tokenomics() {
     }, {
       //barThickness: 100,
       //barPercentage: 0.8,
-      label: 'Dev',
+      label: 'Dev Wallet',
       data: [0, 0, 0, 0, 3850000, 3850000],
       backgroundColor: colors.dev // hoverBackgroundColor: "rgba(0,0,0,0)"
 
@@ -101,7 +101,7 @@ function Tokenomics() {
       //barThickness: 100,
       //barPercentage: 0.8,
       label: 'Listing',
-      data: [0, 0, 0, 0, 0, 14174000],
+      data: [0, 0, 0, 0, 0, 12362112],
       backgroundColor: colors.listing // hoverBackgroundColor: "rgba(0,0,0,0)"
 
     }],
