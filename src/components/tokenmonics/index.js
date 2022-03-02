@@ -26,12 +26,12 @@ function Tokenomics() {
 
   // pie chart data
   const dataMock = [
-    { title: 'Token Presale', value: 31.48, color: '#3260ed' },
-    { title: 'Staking & Farming', value: 22, color: '#8ca8ff' },
-    { title: 'Listing', value: 18.41, color: '#7af0d1' },
-    { title: 'Liquidity', value: 17.11, color: '#3290ed' },
+    { title: 'Presale', value: 38.15, color: '#3260ed' },
+    { title: 'Staking', value: 16.38, color: '#8ca8ff' },
+    { title: 'Liquidity', value: 16.05, color: '#3290ed' },
+    { title: 'Listing', value: 13.41, color: '#7af0d1' },
+    { title: 'SmartDEX', value: 10, color: '#32e4ed' },
     { title: 'Dev Wallet', value: 5, color: '#7c7af0' },
-    { title: 'Gaming', value: 5, color: '#32e4ed' },
     { title: 'Airdrop', value: 1, color: '#32bbed' },
   ];
 
@@ -48,32 +48,32 @@ function Tokenomics() {
     "presale": "#3260ED",
     "liquidity": "#3290ed",
     "airdrop": "#32bbed",
-    "gaming": "#32e4ed",
+    "smartdex": "#32e4ed",
     "staking": "#8CA8FF",
     "dev": "#7c7af0",
     "listing": "#7af0d1"
   };
   const data = {
-    labels:["Dec 21", "Feb 22", "Apr 22", "May 22", "June 22", "Aug 22"],
+    labels:["Mar 22", "Apr 22", "Apr 22", "May 22", "June 22", "Aug 22"],
     datasets: [{
       //barThickness: 100,
       //barPercentage: 0.8,
       label: 'Presale',
-      data: [24000000, 24000000, 24000000, 24000000, 24000000, 24000000],
+      data: [28800000, 28800000, 28800000, 28800000, 28800000, 28800000],
       backgroundColor: colors.presale // hoverBackgroundColor: "#3260ED",
 
     }, {
       //barThickness: 100,
       //barPercentage: 0.8,
       label: 'Liquidity',
-      data: [12936000, 12936000, 12936000, 12936000, 12936000, 12936000],
+      data: [12362112, 12362112, 12362112, 12362112, 12362112, 12362112],
       backgroundColor: colors.liquidity // hoverBackgroundColor: "#d65ad6",
 
     }, {
       //barThickness: 100,
       //barPercentage: 0.8,
       label: 'Airdrop',
-      data: [0, 2310000, 2310000, 2310000, 2310000, 2310000],
+      data: [0, 777700, 777700, 777700, 777700, 777700],
       backgroundColor: colors.airdrop // hoverBackgroundColor: "6afff1"
 
     }, {

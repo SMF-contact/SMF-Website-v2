@@ -57,7 +57,7 @@ function Hero() {
                                 <button type="button">Copy Address</button>
                             </label>
                             </CopyToClipboard>
-                            {Copied ? <span className="copied_success">Copied to clipboard!</span> : "" }
+                            {Copied ? <span className="copied_success">Copied to clipboard</span> : "" }
                         </div>
                     </div>
                 </div>
