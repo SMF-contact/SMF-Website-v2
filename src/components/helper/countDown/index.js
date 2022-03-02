@@ -6,7 +6,7 @@ import "./style.css"
 /*const CountDown = ({date}) => {
   const [countdownDate, setCountdownDate] = useState(new Date(date).getTime());*/
 const CountDown = () => {
-  const [countdownDate, setCountdownDate] = useState(new Date('2022-03-02T15:00:00').getTime())
+  const [countdownDate, setCountdownDate] = useState(new Date('2022-03-07T15:00:00').getTime())
   const [state, setState] = useState({
     days: 0,
     hours: 0,
