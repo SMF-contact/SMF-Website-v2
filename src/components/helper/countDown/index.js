@@ -71,7 +71,9 @@ const CountDown = ({date}) => {
             <small className="time-text">Seconds</small>
           </div>
         </div>
-        <Button classes={"theme-btn"} text="Buy Presale" />
+          <a href="https://www.pinksale.finance/#/launchpad/0x51bB7a53F354a5f0a8f935ab70E867e595c60852?chain=BSC" classes={"theme-btn"} target="_blank" rel="noopener noreferrer">
+            <Button classes={"theme-btn"} text="Buy Presale" />
+          </a>
       </div>
     {/* : ""}  */}
     </>
