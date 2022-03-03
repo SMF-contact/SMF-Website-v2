@@ -49,59 +49,67 @@ function Tokenomics() {
     "liquidity": "#3290ed",
     "airdrop": "#32bbed",
     "smartdex": "#32e4ed",
-    "staking": "#8CA8FF",
+    "staking1": "#8CA8FF",
+    "staking2": "#8CAC4F",
     "dev": "#7c7af0",
     "listing": "#7af0d1"
   };
   const data = {
-    labels:["Mar 22", "Apr 22", "Apr 22", "May 22", "June 22", "Aug 22"],
+    labels:["Mar 22", "Apr 22", "May 22", "Jul 22", "Aug 22"],
     datasets: [{
       //barThickness: 100,
       //barPercentage: 0.8,
       label: 'Presale',
-      data: [28800000, 28800000, 28800000, 28800000, 28800000, 28800000],
+      data: [29376000, 29376000, 29376000, 29376000, 29376000],
       backgroundColor: colors.presale // hoverBackgroundColor: "#3260ED",
 
     }, {
       //barThickness: 100,
       //barPercentage: 0.8,
       label: 'Liquidity',
-      data: [12362112, 12362112, 12362112, 12362112, 12362112, 12362112],
+      data: [12362112, 12362112, 12362112, 12362112, 12362112],
       backgroundColor: colors.liquidity // hoverBackgroundColor: "#d65ad6",
 
     }, {
       //barThickness: 100,
       //barPercentage: 0.8,
       label: 'Airdrop',
-      data: [0, 777700, 777700, 777700, 777700, 777700],
+      data: [0, 777700, 777700, 777700, 777700],
       backgroundColor: colors.airdrop // hoverBackgroundColor: "6afff1"
 
     }, {
       //barThickness: 100,
       //barPercentage: 0.8,
-      label: 'Gaming',
-      data: [0, 0, 3850000, 3850000, 3850000, 3850000],
-      backgroundColor: colors.gaming // hoverBackgroundColor: "rgba(0,0,0,0)"
+      label: 'SmartDEX',
+      data: [0, 0, 7700000, 7700000, 7700000],
+      backgroundColor: colors.smartdex // hoverBackgroundColor: "rgba(0,0,0,0)"
 
     }, {
       //barThickness: 100,
       //barPercentage: 0.8,
-      label: 'Staking',
-      data: [0, 0, 0, 15400000, 15400000, 15400000],
-      backgroundColor: colors.staking // hoverBackgroundColor: "rgba(0,0,0,0)"
+      label: 'Staking-Pool-1',
+      data: [0, 0, 7700000, 7700000, 7700000],
+      backgroundColor: colors.staking1 // hoverBackgroundColor: "rgba(0,0,0,0)"
 
     }, {
       //barThickness: 100,
       //barPercentage: 0.8,
-      label: 'Dev',
-      data: [0, 0, 0, 0, 3850000, 3850000],
+      label: 'Staking-Pool-2',
+      data: [0, 0, 0, 4910295, 4910295],
+      backgroundColor: colors.staking2 // hoverBackgroundColor: "rgba(0,0,0,0)"
+
+    }, {
+      //barThickness: 100,
+      //barPercentage: 0.8,
+      label: 'Dev Wallet',
+      data: [0, 0, 0, 0, 3850000],
       backgroundColor: colors.dev // hoverBackgroundColor: "rgba(0,0,0,0)"
 
     }, {
       //barThickness: 100,
       //barPercentage: 0.8,
       label: 'Listing',
-      data: [0, 0, 0, 0, 0, 14174000],
+      data: [0, 0, 0, 0, 10323893],
       backgroundColor: colors.listing // hoverBackgroundColor: "rgba(0,0,0,0)"
 
     }],

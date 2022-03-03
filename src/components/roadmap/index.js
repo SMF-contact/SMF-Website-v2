@@ -62,7 +62,6 @@ function RoadMap() {
                                             <div className="roadmapWrp-blk">
                                                 <h2>2022-Q1</h2>
                                                 <ul>
-                                                    <li>1.000 Social Media User </li>
                                                     <li>Smart Contract Audit</li>
                                                     <li>Identity Rebranding</li>
                                                     <li>Whitepaper v2 Release</li>
@@ -84,7 +83,7 @@ function RoadMap() {
                                                     <li class="roundShape" >Dapp Audit</li>
                                                     <li class="roundShape" >Dapp Launch </li>
                                                     <li class="roundShape" >AntiScamAI Beta Launch</li>
-                                                    <li class="roundShape" >SmartStake</li>
+                                                    <li class="roundShape" >SmartStake Pool-1</li>
                                                     <li class="roundShape" >SmartDEX Launch</li>
                                                 </ul>
                                             </div>
@@ -96,6 +95,7 @@ function RoadMap() {
                                                 <h2>2022-Q3</h2>
                                                 <ul>
                                                     <li class="roundShape" >Marketplace Beta </li>
+                                                    <li class="roundShape" >SmartStake Pool-2</li>
                                                     <li class="roundShape" >Exchange Listings</li>
                                                     <li class="roundShape" >Loyalty Program Announcement</li>
                                                     <li class="roundShape" >Marketplace Audit</li>
