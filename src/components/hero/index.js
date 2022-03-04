@@ -70,7 +70,7 @@ function Hero() {
                                </a>
                             </Tilt>
                             <Tilt className="willMove" options={{ max : 35,perspective:1000, }}>
-                               <a href="#" target="_blank" rel="noopener noreferrer">
+                               <a href="https://finance.yahoo.com/news/smart-finance-ico-launch-announced-212000444.html" target="_blank" rel="noopener noreferrer">
                                     <img src={Brand2} alt="" />
                                </a>
                             </Tilt>
