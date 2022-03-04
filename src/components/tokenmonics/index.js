@@ -218,7 +218,7 @@ function Tokenomics() {
                             <ScrollAnimation animateIn='fadeIn' animateOut='fadeOut'>
                             <h4>Proof Of Lock</h4>
                             <div className="proof_of_lock-btns">
-                                <a href="#" classes={"theme-btn"} target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.pinksale.finance/#/pinklock/record/32051?chain=BSC" classes={"theme-btn"} target="_blank" rel="noopener noreferrer">
                                   <Button classes={"theme-btn"} text="Airdrop" />
                                 </a>
                                 <a href="https://www.pinksale.finance/#/pinklock/record/7111?chain=BSC" classes={"theme-btn"} target="_blank" rel="noopener noreferrer">
