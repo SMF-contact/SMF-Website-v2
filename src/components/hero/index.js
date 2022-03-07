@@ -75,7 +75,7 @@ function Hero() {
                                </a>
                             </Tilt>
                             <Tilt className="willMove" options={{ max : 35,perspective:1000, }}>
-                               <a href="#" target="_blank" rel="noopener noreferrer">
+                               <a href="https://cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning" target="_blank" rel="noopener noreferrer">
                                     <img src={Brand3} alt="" />
                                </a>
                             </Tilt>
