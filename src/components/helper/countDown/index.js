@@ -52,7 +52,7 @@ const CountDown = () => {
     <>
     {/* { 0 < state.days && 0 < state.hours && 0 < state.minutes && 0 < state.seconds ?   */}
       <div className="countDownItIs">
-        <h4 className="title">PRESALE START IN</h4>
+        <h4 className="title">PRESALE END IN</h4>
         <div className='countdown-wrapper'>
           <div className='time-section'>
             <div className='time'>{state.days || '0'}</div>
