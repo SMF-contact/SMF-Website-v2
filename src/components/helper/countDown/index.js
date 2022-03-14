@@ -2,11 +2,11 @@ import React,{useState,useEffect} from "react";
 import Button from "../../helper/button"
 import "./style.css"
 
+/*const CountDown = () => {
+  const [countdownDate, setCountdownDate] = useState(new Date('2022-03-14T00:44:00').getTime())*/
 
-/*const CountDown = ({date}) => {
-  const [countdownDate, setCountdownDate] = useState(new Date(date).getTime());*/
-const CountDown = () => {
-  const [countdownDate, setCountdownDate] = useState(new Date('2022-03-14T00:44:00').getTime())
+const CountDown = ({date}) => {
+  const [countdownDate, setCountdownDate] = useState(new Date(date).getTime());
   const [state, setState] = useState({
     days: 0,
     hours: 0,
